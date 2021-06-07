@@ -14,3 +14,7 @@ The revised URL is: `https://gitpod.io/#prebuild/https://github.com/<orgname>/<p
 Gitpod displays the prebuild logs by running the init commands in the `.gitpod.yml` file and starts a first workspace based on the results afterwards. Later, when you create a new workspace on a branch, or pull/merge request, for which a prebuild exists, the workspace loads much faster, because all dependencies are already downloaded and the code is compiled. For more information, see prebuilds.
 
 1. Share with your team 🚀
+
+#### License
+
+[Apache 2.0](./LICENSE)
